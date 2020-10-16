@@ -1,3 +1,6 @@
 python-twitter
 tensorflow
 keras
+pandas
+tweepy
+tqdm
